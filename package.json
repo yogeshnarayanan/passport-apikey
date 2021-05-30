@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git@github.com:maisquestoes/passport-apikey.git"
   },
+  "types": "types/index.d.ts",
   "bugs": {
     "url": "https://github.com/maisquestoes/passport-apikey/issues"
   },
